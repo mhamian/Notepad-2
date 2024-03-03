@@ -1,0 +1,17 @@
+C:\Users\Matin\source\repos\Notepad\Notepad\bin\Debug\net8.0-windows\Notepad.exe
+C:\Users\Matin\source\repos\Notepad\Notepad\bin\Debug\net8.0-windows\Notepad.deps.json
+C:\Users\Matin\source\repos\Notepad\Notepad\bin\Debug\net8.0-windows\Notepad.runtimeconfig.json
+C:\Users\Matin\source\repos\Notepad\Notepad\bin\Debug\net8.0-windows\Notepad.dll
+C:\Users\Matin\source\repos\Notepad\Notepad\bin\Debug\net8.0-windows\Notepad.pdb
+C:\Users\Matin\source\repos\Notepad\Notepad\obj\Debug\net8.0-windows\Notepad.Form1.resources
+C:\Users\Matin\source\repos\Notepad\Notepad\obj\Debug\net8.0-windows\Notepad.csproj.GenerateResource.cache
+C:\Users\Matin\source\repos\Notepad\Notepad\obj\Debug\net8.0-windows\Notepad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matin\source\repos\Notepad\Notepad\obj\Debug\net8.0-windows\Notepad.AssemblyInfoInputs.cache
+C:\Users\Matin\source\repos\Notepad\Notepad\obj\Debug\net8.0-windows\Notepad.AssemblyInfo.cs
+C:\Users\Matin\source\repos\Notepad\Notepad\obj\Debug\net8.0-windows\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\Matin\source\repos\Notepad\Notepad\obj\Debug\net8.0-windows\Notepad.dll
+C:\Users\Matin\source\repos\Notepad\Notepad\obj\Debug\net8.0-windows\refint\Notepad.dll
+C:\Users\Matin\source\repos\Notepad\Notepad\obj\Debug\net8.0-windows\Notepad.pdb
+C:\Users\Matin\source\repos\Notepad\Notepad\obj\Debug\net8.0-windows\Notepad.genruntimeconfig.cache
+C:\Users\Matin\source\repos\Notepad\Notepad\obj\Debug\net8.0-windows\ref\Notepad.dll
+C:\Users\Matin\source\repos\Notepad\Notepad\obj\Debug\net8.0-windows\Notepad.Properties.Resources.resources
